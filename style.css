@@ -1,0 +1,28 @@
+
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+        .font-size-21, .size-21, .size-21 > font { font-size: 21px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-21, .size-21, .size-21 > font { font-size: 21px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-42, .size-42, .size-42 > font { font-size: 42px !important; }.font-size-42, .size-42, .size-42 > font { font-size: 42px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-32, .size-32, .size-32 > font { font-size: 32px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }
+    
+
+    
+	
+	/* branding colors definition */
+	:root {  --button-color: #F66035;   --button-hover-color:
+#F86F4C;   --text-on-light: #F66035;  
+--text-on-dark: #F66035;   --text-on-button: #FFF;   --header-color: #313131;   --header-border-color:
+#222222;   --header-text-color: #ffffff;  }
+
