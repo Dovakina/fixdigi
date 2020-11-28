@@ -1,0 +1,249 @@
+
+
+
+    
+
+
+    
+
+
+
+
+    *#dm *.dmBody nav.u_1767790041
+{
+	color:white !important;
+}
+div.google-calendar-popup-content-container
+{
+	background-color:rgba(194,255,0,1) !important;
+}
+*#dm *.dmBody *.google-calendar-popup-content-container *.event-full-container
+{
+	align-items:center !important;
+	text-align:center !important;
+}
+*#dm *.dmBody *.google-calendar-popup-content-container *.event-container
+{
+	align-items:center !important;
+	text-align:center !important;
+}
+*#dm *.dmBody *.google-calendar-popup-content-container *.day-of-month-container
+{
+	align-items:center !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container *.week-container *.monthly-day-card *.day-of-month-flex-container p.today
+{
+	background-color:rgba(194,255,0,1) !important;
+	color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1461320738
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1094642957
+{
+	background-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1519405650
+{
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.navigation-header
+{
+	background-color:rgba(0,0,0,0) !important;
+	font-family:Poppins !important;
+	font-weight:normal !important;
+	border-style:solid !important;
+	border-width:0px !important;
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.week-day-names-header
+{
+	color:rgba(255,255,255,1) !important;
+	border-style:solid !important;
+	border-width:0px !important;
+	font-weight:normal !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container *.week-container *.monthly-day-card *.event-container
+{
+	color:rgba(162,162,162,1) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container *.week-container *.monthly-day-card *.x-more-container
+{
+	color:rgba(162,162,162,1) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container *.week-container *.monthly-day-card
+{
+	background-color:rgba(0,0,0,0) !important;
+	border-style:solid !important;
+	border-width:1px !important;
+	border-color:rgba(81,81,81,1) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container
+{
+	border-style:solid !important;
+	border-width:1px !important;
+	border-color:rgba(81,81,81,1) !important;
+}
+*#dm *.dmBody div.u_1901087074 *.calendar-container *.weeks-container *.week-container *.monthly-day-card *.day-of-month-flex-container p:not(.today)
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:bold !important;
+}
+*#dm *.dmBody *.u_1147014163:before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1147014163.before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1147014163>.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.u_1147014163:before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.4 !important;
+}
+*#dm *.dmBody div.u_1147014163.before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.4 !important;
+}
+*#dm *.dmBody div.u_1147014163>.bgExtraLayerOverlay
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.4 !important;
+}
+*#dm *.dmBody div.u_1147014163
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(/Resources/images/woman_training_ties_shoelaces.jpg) !important;
+	background-size:cover !important;
+}
+
+
+
+    
+*#dm *.dmBody div.u_1147014163
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(/Resources/images/woman_training_ties_shoelaces.jpg) !important;
+	background-size:cover !important;
+}*#dm *.dmBody h2.u_1461320738
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:215px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:calc(100% - 30px) !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1467626972
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:-8px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+}
+*#dm *.dmBody div.u_1461320738
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+}
+*#dm *.dmBody div.u_1094642957
+{
+	padding-top:30px !important;
+	padding-bottom:60px !important;
+}
+*#dm *.d-page-1171103334 DIV.dmInner
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:auto 100vh !important;
+	background-position:50% 0% !important;
+	background-color:rgba(0,0,0,1) !important;
+}
+*#dm *.d-page-1171103334 DIV#dmSlideRightNavRight
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:auto 100vh !important;
+	background-position:50% 0% !important;
+	background-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1147014163
+{
+	padding-top:100px !important;
+	padding-bottom:70px !important;
+	margin-left:0px !important;
+	padding-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:0px !important;
+	width:auto !important;
+}
+
+
+
+        
+    
+
+    
+	
+	/* branding colors definition */
+	:root {  --button-color: #F66035;   --button-hover-color:
+#F86F4C;   --text-on-light: #F66035;  
+--text-on-dark: #F66035;   --text-on-button: #FFF;   --header-color: #313131;   --header-border-color:
+#222222;   --header-text-color: #ffffff;  }
+
